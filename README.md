@@ -1,0 +1,3 @@
+# Imersão DevOps - Alura Google Cloud
+
+Este projeto é uma API simples que retorna uma lista de frutas, mas o foco desse projeto foi aprender sobre a importancia do DevOps para empacotar o projeto e tornar simples de compartilhar com outros Devs, e assim acabar com o problema "na minha maquina funciona", e para isso aprendemos sobre Docker que é uma ferramento muito utilizada por DevOps para fazer as imagens e destribuir. Também aprendemos comandos básicos para criar a nossa imagem a partier do arquivo Dockerfile e também como automatizar e facilitar a execução do nosso container utilizando um arquivo docker-compose, no qual nos permite automatizar e gerenciar imagens que podem ser executadas simultaneamente dentro do mesmo container.
