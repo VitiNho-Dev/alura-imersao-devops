@@ -30,5 +30,5 @@ func main() {
 
 	r.GET("/fruits", getFruits)
 
-	r.Run(":8080")
+	r.Run(":8000")
 }
